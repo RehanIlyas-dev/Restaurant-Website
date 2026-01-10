@@ -83,8 +83,3 @@ DELETE FROM Orders WHERE order_id = 5; -- Delete Specified Order
 DELETE FROM Menu_Items WHERE item_id = 5; -- Delete Specified Menu Item
 DELETE FROM Customers WHERE customer_id = 5; -- Delete Specified Customer
 DELETE FROM Orders WHERE order_status = 'Pending'; -- Delete Pending Order
-
-
-
-
-
